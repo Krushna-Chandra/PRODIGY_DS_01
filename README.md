@@ -1,5 +1,3 @@
-
-```markdown
 # 📊 PRODIGY_DS_01 - Data Science Internship (Task-01)
 
 This repository contains my solution for **Task-01** assigned by **Prodigy InfoTech** as part of my **Data Science Internship**.  
@@ -42,7 +40,7 @@ PRODIGY_DS_01/
    ```bash
    git clone https://github.com/Krushna-Chandra/PRODIGY_DS_01.git
    cd PRODIGY_DS_01
-````
+   ```
 
 2. Install dependencies:
 
