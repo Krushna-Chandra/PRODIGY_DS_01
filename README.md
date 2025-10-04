@@ -62,9 +62,7 @@ Some of the visualizations generated include:
 ### Histogram
 
 <img width="1012" height="660" alt="image" src="https://github.com/user-attachments/assets/c8a22ba1-2d51-4d6f-8948-1fd6b3b3115b" />
-![Histogram Example](<img width="1185" height="672" alt="image" src="https://github.com/user-attachments/assets/72bc11b9-fb14-4111-9c82-e64f8a861f90" />
-)
-
+[Histogram Example]
 ---
 
 ## 🎯 Learning Outcome
