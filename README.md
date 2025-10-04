@@ -65,7 +65,8 @@ Some of the visualizations generated include:
 
 ### Bar Chart
 
-![Bar Chart Example](plots/bar_chart.png)
+![Bar Chart Example](<img width="1226" height="677" alt="image" src="https://github.com/user-attachments/assets/c57fdaf6-2206-4eaa-b61a-6fb7b8938167" />
+)
 
 ### Histogram
 
