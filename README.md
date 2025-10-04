@@ -21,8 +21,6 @@ Create a **bar chart** or **histogram** to visualize the distribution of a categ
 PRODIGY_DS_01/
 │── data/            # Dataset used (from Prodigy InfoTech sample datasets)
 │── notebook.ipynb   # Jupyter Notebook with implementation
-│── plots/           # Generated visualizations
-│── requirements.txt # Dependencies required to run the project
 │── README.md        # Project documentation
 
 ```
@@ -44,14 +42,7 @@ PRODIGY_DS_01/
    git clone https://github.com/Krushna-Chandra/PRODIGY_DS_01.git
    cd PRODIGY_DS_01
    ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
 
    ```bash
    jupyter notebook notebook.ipynb
@@ -70,7 +61,8 @@ Some of the visualizations generated include:
 
 ### Histogram
 
-![Histogram Example](plots/histogram.png)
+<img width="1012" height="660" alt="image" src="https://github.com/user-attachments/assets/c8a22ba1-2d51-4d6f-8948-1fd6b3b3115b" />
+[Histogram Example]
 
 ---
 
