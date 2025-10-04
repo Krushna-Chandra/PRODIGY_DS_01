@@ -6,9 +6,12 @@ This repository contains my solution for **Task-01** assigned by **Prodigy InfoT
 
 ## 🚀 Task Description
 **Task-01:**  
+
+<img width="1472" height="828" alt="image" src="https://github.com/user-attachments/assets/4fd0f443-1521-4944-a150-fedf6539e8f0" />
+
 Create a **bar chart** or **histogram** to visualize the distribution of a categorical or continuous variable, such as the distribution of **ages** or **genders** in a population.  
 
-🔗 [Sample Dataset](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201)
+🔗 [Sample Dataset](http://localhost:8888/lab/tree/worldpopulationdata.csv)
 
 ---
 
